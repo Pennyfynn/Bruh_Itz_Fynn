@@ -20,4 +20,4 @@
 
 You can always Support me by inviting one of my **own Discord Bots**
 
-[Cayde Bot](https://discord.com/oauth2/authorize?client_id=702229286018482256&permissions=2117201151&scope=bot)]
+[Cayde Bot](https://discord.com/oauth2/authorize?client_id=702229286018482256&permissions=2117201151&scope=bot)
