@@ -3,7 +3,7 @@
 </div>  
   
 
-### <div align="center">I'm Fynn, mainly a Discord Bot Developer 👨‍💻 working peacefully since 2021 on Bots 🚀</div>  
+### I'm Fynn, mainly a Discord Bot Developer 👨‍💻 working peacefully since 2021 on Bots 🚀</div>  
     
   
 
